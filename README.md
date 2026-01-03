@@ -5,4 +5,4 @@ Clique no link abaixo para acessar o site modelo.
 
 
 ## 🔗 Links
-[Site Modelo sobre o Android](https://alexandre-freitas-sys.github.io./site-android/)
+[Site Modelo sobre o Android](https://alefreitas-tech.github.io./site-android/)
